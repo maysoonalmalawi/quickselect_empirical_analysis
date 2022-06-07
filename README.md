@@ -5,7 +5,7 @@ The project idea is to empirically analyze two different partitioning methods fo
 2- Sedgewick Partitioning 
 
 Using two different metrics:
-1- Runtime
+1- Physical Runtime
 2- Basic Operation Count
 
 And by progressively increasing the lise size, we can finally see which one behaves better (hence the empirical analysis).
